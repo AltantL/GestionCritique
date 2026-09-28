@@ -1,3 +1,5 @@
+package exercice_1;
+
 class MyMUTEX{}
 
 class Affichage extends Thread {
